@@ -40,6 +40,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
+    flex-direction: row-reverse;
 }
     aside {
     margin: 20px 20px 20px 20px;
